@@ -1,4 +1,4 @@
-Feature: US_02_Login_NegativeTest
+Feature: US_01_Login_NegativeTest
 
   Scenario: Login on campus
 

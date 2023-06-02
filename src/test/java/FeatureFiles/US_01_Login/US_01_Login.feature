@@ -1,4 +1,4 @@
-Feature: US_02_Login
+Feature: US_01_Login
 
   Scenario: Login on campus
 
